@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-training/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-training/static/js/main.fe0498c7.chunk.js",
+    "main.js.map": "/react-training/static/js/main.fe0498c7.chunk.js.map",
+    "runtime-main.js": "/react-training/static/js/runtime-main.37ff590a.js",
+    "runtime-main.js.map": "/react-training/static/js/runtime-main.37ff590a.js.map",
+    "static/js/2.03669f55.chunk.js": "/react-training/static/js/2.03669f55.chunk.js",
+    "static/js/2.03669f55.chunk.js.map": "/react-training/static/js/2.03669f55.chunk.js.map",
+    "index.html": "/react-training/index.html",
+    "precache-manifest.c36bc166434870026619e9476e7b257f.js": "/react-training/precache-manifest.c36bc166434870026619e9476e7b257f.js",
+    "service-worker.js": "/react-training/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-training/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/react-training/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ff590a.js",
+    "static/js/2.03669f55.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.fe0498c7.chunk.js"
+  ]
+}
